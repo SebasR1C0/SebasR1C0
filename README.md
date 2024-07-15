@@ -1,5 +1,9 @@
+<div align="center">
+  <h1 align="center"> Hola, soy Rojas Sebastián👋 </h1>
+</div>
+
 # 💫 About Me:
-Hi there! I'm a 18-year-old programmer from Peru, passionate about learning and eager to excel in the field of technology. Currently, I am pursuing a degree in Information Systems Engineering at the Universidad Peruana de Ciencias Aplicadas, where I am proud to be among the top 10% of my class.<br><br>With a strong foundation in programming and a keen interest in participating in diverse projects, I am always on the lookout for opportunities to collaborate and grow. My skill set includes effective communication, teamwork, problem-solving, decision-making, time management, leadership, and creativity.<br><br>I thrive on new challenges and am committed to continuous improvement. Whether it's contributing to open-source projects, working on innovative solutions, or exploring new technologies, I am driven by a relentless desire to make a positive impact and advance my skills.<br><br>Let's connect and create something amazing together!
+I'm a 18-year-old programmer from Peru, passionate about learning and eager to excel in the field of technology. Currently, I am pursuing a degree in Information Systems Engineering at the Universidad Peruana de Ciencias Aplicadas, where I am proud to be among the top 10% of my class.<br><br>With a strong foundation in programming and a keen interest in participating in diverse projects, I am always on the lookout for opportunities to collaborate and grow. My skill set includes effective communication, teamwork, problem-solving, decision-making, time management, leadership, and creativity.<br><br>I thrive on new challenges and am committed to continuous improvement. Whether it's contributing to open-source projects, working on innovative solutions, or exploring new technologies, I am driven by a relentless desire to make a positive impact and advance my skills.<br><br>Let's connect and create something amazing together!
 
 
 ## 🌐 Socials:
