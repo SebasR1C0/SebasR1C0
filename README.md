@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Hola, soy Rojas Sebastián👋 </h1>
+  <h1 align="center"> Hello, I am Rojas Sebastián👋 </h1>
 </div>
 
 # 💫 About Me:
