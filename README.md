@@ -1,9 +1,15 @@
 <div align="center">
-  <h1 align="center"> Hello, I am Rojas Sebastián👋 </h1>
+  <h1 align="center"> Hello, I am BlxckShaiiko👋 </h1>
 </div>
 
 # 💫 About Me:
-I'm a 18-year-old programmer from Peru, passionate about learning and eager to excel in the field of technology. Currently, I am pursuing a degree in Information Systems Engineering at the Universidad Peruana de Ciencias Aplicadas, where I am proud to be among the top 10% of my class.<br><br>With a strong foundation in programming and a keen interest in participating in diverse projects, I am always on the lookout for opportunities to collaborate and grow. My skill set includes effective communication, teamwork, problem-solving, decision-making, time management, leadership, and creativity.<br><br>I thrive on new challenges and am committed to continuous improvement. Whether it's contributing to open-source projects, working on innovative solutions, or exploring new technologies, I am driven by a relentless desire to make a positive impact and advance my skills.<br><br>Let's connect and create something amazing together!
+I am a programmer passionate about offensive cybersecurity and the development of innovative technological solutions. Currently, I am pursuing a degree in Information Systems Engineering at the Universidad Peruana de Ciencias Aplicadas, where I am proud to be among the top 10% of my class.<br><br>
+
+My primary focus is on protecting systems and networks from cyber threats, constantly striving to improve my skills in areas like penetration testing, vulnerability analysis, and incident response. Throughout my career, I have dedicated myself to gaining in-depth knowledge of security tools, scripting, and advanced ethical hacking techniques.<br><br>
+
+In addition to my technical skills, I possess strong communication, teamwork, and decision-making abilities under pressure. I am motivated by the constant pursuit of challenges and continuous learning, which drives me to collaborate on open-source projects, explore new technologies, and contribute to the field of cybersecurity.<br><br>
+
+I am eager to contribute my knowledge and learn from other professionals in the field of offensive cybersecurity. If you share this passion or are looking for someone with skills in this area, feel free to connect with me.<br><br>
 
 
 ## 🌐 Socials:
